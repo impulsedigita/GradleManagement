@@ -1,0 +1,16 @@
+Gradle Management in Android Project
+************************************
+gradle management | naming apk file in runtime | use local.properties file data
+
+What is gradle in Android Studio?
+**********************************
+Gradle is a JVM based build system that takes all your written sources and resources (.java and .xml etc) and apply relative/appropriate tools like dx tools and aapt tools to build APK file. If you have used command prompt to make / build APK while using Eclipse, you may aware of all these tools but maximum android developer who use Eclipse to develop android app use Eclipse to build APK by Export option.
+
+Have you used MVP, MVVM or any other design pattern? That's mean you like clean code.  
+
+Now a days we are using MVP , MVVM, LiveData , RxJava etc design pattern to keep our code clean. But we are not aware how we can keep our gradle files clean and how easily we can manage it.
+
+Let's see how we can manage gradle file.
+
+
+   
